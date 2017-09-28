@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="128dp"
+    android:minWidth="600dp"
+    android:minResizeHeight="128dp"
+    android:minResizeWidth="600dp"
+    android:updatePeriodMillis="0"
+    android:initialKeyguardLayout="@layout/widget_recipe">
+
+</appwidget-provider>

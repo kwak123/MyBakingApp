@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Baking App</string>
+
+    <!-- Main Fragment -->
+    <string name="recipe_serves">Total Servings:&#160;</string>
+    <string name="recipe_total_ingredients">Total Ingredients:&#160;</string>
+    <string name="recipe_total_steps">Total Steps:&#160;</string>
+
+    <!-- Recipe Fragment -->
+    <string name="header_ingredients">Ingredients</string>
+    <string name="header_steps">Steps</string>
+
+    <!-- Step Fragment -->
+    <string name="header_step_video">Video Guide</string>
+    <string name="header_step_description">Instructions</string>
+
+    <!-- Widget -->
+    <string name="header_widget">My Baking App</string>
+
+    <!-- A11y -->
+    <string name="recipe_right_arrow">View this step\'s instructions</string>
+
+</resources>
